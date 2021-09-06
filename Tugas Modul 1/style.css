@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(221, 215, 183) !important;
+    margin: 0px;
+    padding-left: 40%;
+    padding-top: 10%;
+    height: 0px;
+    justify-content: left;
+    align-items: left;
+    
+}
+h1 {
+    text-align: left;
+    font-family: sans-serif !important;
+}
+form {
+    text-align: left;
+}
+p {
+    text-align: left;
+}
