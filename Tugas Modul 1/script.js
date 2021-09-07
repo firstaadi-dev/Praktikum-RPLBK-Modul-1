@@ -16,5 +16,5 @@ var operationEl = document.querySelector('input[name=operation]:checked').value
     var result = await numArr.reduce((prev, next) => prev - next);
   }
 
-  document.getElementById("var").innerHTML = result;
+  document.getElementById("result").innerHTML = result;
 }
